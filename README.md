@@ -5,13 +5,13 @@ This repository contains the implementation and resources for a novel approach t
 
 ## Key Features:
 
-Fine-tuning Pipeline: We provide scripts and documentation for fine-tuning transformer-based LLMs on radiology report summarization tasks, tailoring them for the clinical domain.
+* Fine-tuning Pipeline: We provide scripts and documentation for fine-tuning transformer-based LLMs on radiology report summarization tasks, tailoring them for the clinical domain.
 
-Synthetic Preference Dataset Generation: Explore our methodology and code for generating synthetic preference-based datasets, eliminating the need for extensive human annotation efforts.
+* Synthetic Preference Dataset Generation: Explore our methodology and code for generating synthetic preference-based datasets, eliminating the need for extensive human annotation efforts.
 
-Direct Preference Optimization (DPO): Dive into the implementation of DPO, a reinforcement learning technique used to refine model alignment with preferred summaries, improving factual consistency and accuracy.
+* Direct Preference Optimization (DPO): Dive into the implementation of DPO, a reinforcement learning technique used to refine model alignment with preferred summaries, improving factual consistency and accuracy.
 
-Evaluation and Metrics: Evaluate the performance of fine-tuned and DPO-aligned models using standard evaluation metrics such as RougeL, F1-RadGraph, and F1-CheXbert on both in-domain and out-of-domain datasets.
+* Evaluation and Metrics: Evaluate the performance of fine-tuned and DPO-aligned models using standard evaluation metrics such as RougeL, F1-RadGraph, and F1-CheXbert on both in-domain and out-of-domain datasets.
 
 ## Contributing:
 We welcome contributions from the research and development community to further enhance our approach, expand dataset generation techniques, and improve model alignment strategies. Feel free to submit pull requests, open issues, or engage in discussions to collaborate on advancing radiology report summarization methods.

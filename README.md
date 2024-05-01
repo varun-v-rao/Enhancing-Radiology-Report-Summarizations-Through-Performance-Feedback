@@ -1,6 +1,4 @@
-# Enhancing-Radiology-Report-Summarizations-Through-Performance-Feedback
-
-## Project Title: Enhancing Radiology Report Summarizations
+# Enhancing Radiology Report Summarizations Through Performance Feedback
 
 ## Description:
 This repository contains the implementation and resources for a novel approach to enhancing radiology report summarization through performance feedback. Leveraging state-of-the-art Large Language Models (LLMs) like GPT-2, BART, and LLaMA, this project aims to streamline the process of distilling crucial insights from extensive radiological investigations into concise and accurate summaries. By addressing concerns such as factual inconsistency and hallucination issues exhibited by LLMs, our approach combines supervised fine-tuning with reinforcement learning techniques to align these models with the task of radiology report summarization.
